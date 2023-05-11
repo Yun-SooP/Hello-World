@@ -23,15 +23,15 @@ while True:
         match number_of_game:
             case "1":
                 right_choice = True
-                with open("Hangman.py") as f:
+                with open("lib\Hangman.py") as f:
                     exec(f.read())
             case "2":
                 right_choice = True
-                with open("GuessTheNumber.py") as f:
+                with open("lib\GuessTheNumber.py") as f:
                     exec(f.read())
             case "3":
                 right_choice = True
-                with open("GuessTheWord.py") as f:
+                with open("lib\GuessTheWord.py") as f:
                     exec(f.read())
             case _:
                 print("That's a wrong choice.")

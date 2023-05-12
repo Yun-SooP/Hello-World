@@ -15,6 +15,7 @@ while True:
 
     number_of_game = input("Your choice: ")
     if number_of_game == "escape":
+        "Bye bye"
         break
     right_choice = False
 

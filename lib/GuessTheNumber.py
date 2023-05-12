@@ -3,7 +3,7 @@ import random
 randomNumber = 0
 userGuess = 0
 finish = False
-count = 0
+count = 1
 
 def generateRandomNumber():
     global randomNumber

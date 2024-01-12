@@ -10,6 +10,7 @@ while True:
         3) Guess the word
 
     Type in the number of the game you want to play.
+    Change.
     If you want to exit, then type in: escape
         """)
 

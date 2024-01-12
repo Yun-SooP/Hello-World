@@ -30,3 +30,7 @@ while(not finish):
         continue
     compare()
     count += 1
+
+
+
+print("This is a change.")

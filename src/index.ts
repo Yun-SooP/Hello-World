@@ -1,5 +1,5 @@
 
-export function start(html_widget: HTMLDivElement) {
+function start(html_widget: HTMLDivElement) {
     html_widget.innerHTML = `
       <div class="main-window l-main-window first-layer-window">
 
